@@ -5,13 +5,13 @@ Useless project to handle many houses
 Created for study proposes.
 
 ## :worried: Content included
-### Devops
+### :boom: Devops
 - Docker
 - Github Actions
 - Terraform
-### Backend
+### :heart:	Backend
 - Java
 - Spring Framework
-### Frontend
+### :cupid:	Frontend
 - Typescript
 - React Framework
