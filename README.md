@@ -1,7 +1,7 @@
 # V2House
 Useless project to handle many houses
 
-## :neutral_face:	This is a useless project
+## :neutral_face:	This is an useless project
 Created for study proposes.
 
 ## :worried: Content included
