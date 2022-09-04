@@ -1,0 +1,8 @@
+[submodule "V2House-terraform"]
+    path = V2House-terraform
+    url = https://github.com/JonasXPX/V2House-terraform
+    branch = main
+[submodule "V2House-house-service"]
+    path = backend/V2House-house-service
+    url = https://github.com/JonasXPX/V2House-house-service
+    branch = main
