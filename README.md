@@ -2,7 +2,7 @@
 Useless project to handle many houses
 
 ## :neutral_face:	This is an useless project
-Created for study proposes.
+Created for study purposes.
 
 ## :worried: Content included
 ### :boom: DevOps
