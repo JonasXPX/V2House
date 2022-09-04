@@ -5,7 +5,7 @@ Useless project to handle many houses
 Created for study proposes.
 
 ## :worried: Content included
-### :boom: Devops
+### :boom: DevOps
 - Docker
 - Github Actions
 - Terraform
