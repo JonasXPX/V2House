@@ -9,6 +9,7 @@ Created for study purposes.
 - Docker
 - Github Actions
 - Terraform
+- AWS
 ### :heart:	Backend
 - Java
 - Spring Framework
